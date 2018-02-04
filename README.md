@@ -3,6 +3,9 @@
  * 2 / 2 / 2018   22:00 RX-0001
  * 2 / 3 / 2018   17:03	RX-0801
 
+# Tips:
+Read the README.md after download it to local!
+
 # RX-0801:
 ## Registers:
 +-------+
